@@ -22,4 +22,7 @@ To reduce variation from day to day in the data, we bin the data into buckets by
 
 We also create a new variable that captures the average number of clicks per student each week. 
 
+![](Open_university_Learning_Analytics/src/images/feature_engineering_a1.png)
 
+
+![](Open_university_Learning_Analytics/src/images/relplot_a1_module_session.png)
